@@ -1,13 +1,13 @@
 import React from 'react'
 
-const Hero = () => {
+const Faq = () => {
   return (
-    <main>
+    <section>
         <div className="container">
-            <h1>Hero</h1>
+            <h1>FaQ</h1>
         </div>
-    </main>
+    </section>
   )
 }
 
-export default Hero
+export default Faq
